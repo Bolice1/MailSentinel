@@ -1,0 +1,27 @@
+{
+  "name": "mailsentinel",
+  "version": "1.0.0",
+  "description": "advanced email validation and reachability checker for nodejs",
+  "keywords": [
+    "email",
+    "validation",
+    "smtp",
+    "reachability",
+    "email-validation"
+  ],
+  "homepage": "https://github.com/Bolice1/MailSentinel#readme",
+  "bugs": {
+    "url": "https://github.com/Bolice1/MailSentinel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolice1/MailSentinel.git"
+  },
+  "license": "MIT",
+  "author": "KOMEZUSENGE Bolice",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
