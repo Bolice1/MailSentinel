@@ -1,10 +1,10 @@
-# 🛡️ MailSentinel
+# MailSentinel
 
 **MailSentinel** helps developers **validate emails, check if they exist, and test reachability**, all in a **reliable and easy-to-use Node.js package**. Perfect for applications needing **accurate email verification** and **spam prevention**.  
 
 ---
 
-## ✨ Features
+## Features
 
 - **Email Format Validation** – Check if an email is properly formatted.  
 - **Domain & MX Record Check** – Verify the email domain exists and can receive emails.  
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Installation
+## Installation
 
 ```bash
 npm install mailsentinel
