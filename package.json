@@ -25,7 +25,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "dns": "^0.1.2",
     "email-validator": "^2.0.4",
+    "express": "^5.2.1",
     "nodemailer": "^8.0.4"
   }
 }
